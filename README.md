@@ -30,15 +30,19 @@
 
 ## About The Project
 
-This is a webpage project that demonstrates the use of:
+This is a webpage project that implements:
 
 -   Click event handlers with conditional statements.
 -   Adding and removing CSS classes with JavaScript.
 
 Click the button to reveal a photo and change the button text. Clicking the button again hides the photo and changes the button's text and appearance. Rinse and repeat!
 
-![hide](screenshots/screenshot1.png "hide")
-![reveal](screenshots/screenshot2.png "reveal")
+<div align="center">
+
+![screenshot1](screenshots/screenshot1.png "before")
+![screenshot2](screenshots/screenshot2.png "after")
+
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +58,7 @@ Click the button to reveal a photo and change the button text. Clicking the butt
 
 ## Getting Started
 
-This webpage was crafted with vanilla code. No dependencies here!
+This web page was crafted with vanilla code. No dependencies here!
 
 ### Prerequisites
 
